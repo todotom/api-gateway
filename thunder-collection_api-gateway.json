@@ -1,0 +1,33 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "api-gateway",
+    "dateExported": "2023-03-26T13:48:24.880Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "16455384-bb80-435c-aef6-9fb8db792cf0",
+            "colId": "8906a8aa-d245-405d-95bb-02ac965de6a1",
+            "containerId": "",
+            "name": "root",
+            "url": "http://localhost:3000/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-03-26T13:48:18.409Z",
+            "modified": "2023-03-26T13:48:18.409Z",
+            "headers": [
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)",
+                    "isDisabled": true
+                },
+                {
+                    "name": "lal",
+                    "value": "xd"
+                }
+            ],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
